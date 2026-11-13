@@ -1,4 +1,4 @@
-package Taller15.Ejercicio1;
+package Taller15.Ejercicio2;
 
 public class LibroRepository {
     public void guardar(Libro libro) {
